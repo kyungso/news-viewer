@@ -4,7 +4,10 @@ import NewsPage from './pages/NewsPage';
 
 const App = () => {
   return (
-    <Route path="/:category?" component={NewsPage} />
+    <>
+      <Route path="/news-viewer" exact={true} component={NewsPage} />
+      <Route path="/:category?" component={NewsPage} />
+    </>
   );
 }
 
