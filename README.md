@@ -1,4 +1,4 @@
-## news-viwer
+## news-viewer
 
 - react
 - styled-components
