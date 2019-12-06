@@ -22,3 +22,7 @@
     GET https://newsapi.org/v2/top-headlines?country=kr&category=business&apiKey=yourAPIKey
 
     (카테고리 종류 : business, entertainment, health, science, sports, technology)
+
+<br>
+
+- 김민준, 『리액트를 다루는 기술, 개정판』
